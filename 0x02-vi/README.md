@@ -1,0 +1,1 @@
+This project is to learn basic navigation with (vi)sual editor.
