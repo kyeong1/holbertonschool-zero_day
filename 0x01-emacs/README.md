@@ -1,0 +1,1 @@
+This project is to get an idea on how to navigate around emacs.
