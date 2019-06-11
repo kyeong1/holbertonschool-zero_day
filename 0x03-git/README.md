@@ -1,1 +1,1 @@
-This project is created to learn how to use git/github.
+Editing my README through github.com interface.
